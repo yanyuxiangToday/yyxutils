@@ -1,0 +1,7 @@
+numpy
+opencv-python
+twine
+setuptools
+wheel
+attrdict
+pyyaml
